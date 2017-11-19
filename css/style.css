@@ -10,6 +10,26 @@ border-color: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7
 }
 
 body{
-    background-color: #9ACBD9 ;
+    background-color: #9ACBD9; ;
     
 }
+
+.main-nav{
+	margin-top: 30px;
+    margin-bottom: 30px;
+}
+.main-nav ul li a{
+    padding-left: 100px;
+    padding-right: 100px; 
+	color: #ffffff;
+    text-decoration: none;
+
+}
+.main-nav ul li a:hover{
+    background-color: rgba(242,242,242,0.3);
+    text-decoration: none;
+    color:#337ab7;
+}
+
+
+
