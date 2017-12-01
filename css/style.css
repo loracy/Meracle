@@ -9,8 +9,11 @@ border-color: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7
 
 }
 
+html{
+    padding-bottom:100px;
+}
 body{
-    background-color: #9ACBD9; ;
+    background-color: #9ACBD9; 
     
 }
 
